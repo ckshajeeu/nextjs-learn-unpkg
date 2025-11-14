@@ -1,4 +1,4 @@
-# Next.js Foundation Course
+# Next.js Foundations Course
 
 [Click here for deployed demo!](https://ckshajeeu.github.io/nextjs-learn-unpkg/)
 
