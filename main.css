@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.topic{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.container {
+    padding-top: 10px;
+}
+
+.chapter-head {
+    font-size: 20px;
+    color: lightcoral;
+    line-height: 28px;
+}
+
+.main-head {
+    font-size: 35px;
+    color: lightcoral;
+}
